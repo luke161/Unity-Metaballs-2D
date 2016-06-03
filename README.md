@@ -7,3 +7,7 @@ Preview: http://lukeholland.me/builds/Metaballs2D/index.html
 
 Author: Luke Holland (@luke161)
 http://lukeholland.me/
+
+### Usage
+
+Built with Unity 5, open in Unity and load [Scenes/SceneMain](master/Assets/Scenes/SceneMain.unity)
